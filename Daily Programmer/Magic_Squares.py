@@ -21,7 +21,6 @@ class MagicSquares:
 
     def check_if_magic_square(self):
         if self.square[0] + self.square[1] + self.square[2] != 15:
-            print 1
             return False
         if self.square[3] + self.square[4] + self.square[5] != 15:
             return False
