@@ -1,5 +1,5 @@
 # Subreddit Programming Prompts:
-# https://www.reddit.com/r/ProgrammingPrompts/comments/457nkn/easy_make_an_ascii_summation_calculator/
+# https://www.reddit.com/r/ProgrammingPrompts/comments/2xo554/easy_calculate_the_day_of_the_week_for_any_given/
 
 
 def get_day_of_week(date):
